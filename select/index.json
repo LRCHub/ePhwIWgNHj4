@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Wavelet",
+  "base_artist": "春野",
+  "createdAt": "2026-02-11T13:04:14.694107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wavelet",
+      "artist": "Speakers Corner Quartet, Kwake Bass, Raven Bush, Peter Bennie, Biscuit, Confucius MC & Joe Armon‐Jones",
+      "has_synced": true,
+      "path": "select/01_Wavelet_Speakers_Corner_Quartet,_Kwake_Bass,_Raven_Bush,_Peter_Bennie,_Biscuit,_Confuciu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wavelet",
+      "artist": "Speakers Corner Quartet, Kwake Bass, Bush, Raven, Bennie, Peter, Biscuit, Confucius MC & Armon‐Jones, Joe",
+      "has_synced": true,
+      "path": "select/02_Wavelet_Speakers_Corner_Quartet,_Kwake_Bass,_Bush,_Raven,_Bennie,_Peter,_Biscuit,_Confuc.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wavelet",
+      "artist": "Speakers Corner Quartet, Kwake Bass, Raven Bush, Peter Bennie, Biscuit, Confucius MC",
+      "has_synced": true,
+      "path": "select/03_Wavelet_Speakers_Corner_Quartet,_Kwake_Bass,_Raven_Bush,_Peter_Bennie,_Biscuit,_Confuciu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wavelet",
+      "artist": "Speakers Corner Quartet",
+      "has_synced": true,
+      "path": "select/04_Wavelet_Speakers_Corner_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wavelet",
+      "artist": "Speakers Corner Quartet feat. Confucius MC & Joe Armon‐Jones",
+      "has_synced": true,
+      "path": "select/05_Wavelet_Speakers_Corner_Quartet_feat._Confucius_MC_&_Joe_Armon‐Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wavelet",
+      "artist": "haruno",
+      "has_synced": true,
+      "path": "select/06_Wavelet_haruno.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wavelet",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_Wavelet_春野.txt"
+    }
+  ]
+}
